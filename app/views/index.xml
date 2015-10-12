@@ -1,0 +1,8 @@
+<Alloy>
+    <Window class="container" layout="vertical">
+        <WebView borderRadius="2dp" enableZoomControls="false" height="80%" hideLoadIndicator="true" id="webView" scalesPageToFit="true" width="Ti.UI.FILL"/>
+        <View height="20%" width="Ti.UI.FILL">
+            <Button height="Ti.UI.FILL" onClick="focusButtonClicked" title="Trigger textfield focus" width="Ti.UI.SIZE"/>
+        </View>
+    </Window>
+</Alloy>

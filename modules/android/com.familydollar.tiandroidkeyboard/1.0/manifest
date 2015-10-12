@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Force android keyboard.
+author: rnagella
+license: Copyright @2015 Familydollar
+copyright: FamiyDollar
+
+# these should not be edited
+name: tiandroidkeyboard
+moduleid: com.familydollar.tiandroidkeyboard
+guid: 9ef576f2-1357-4df8-b98f-174061ac6e4c
+platform: android
+minsdk: 3.4.1.GA

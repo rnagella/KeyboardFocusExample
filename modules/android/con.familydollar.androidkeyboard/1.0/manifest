@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: Force keyboard on android.
+author: rnagella@familydollar
+license: FamilyDollar Licence
+copyright: 2015@FamilyDollar
+
+# these should not be edited
+name: androidkeyboard
+moduleid: con.familydollar.androidkeyboard
+guid: 0adbe00d-76c5-4564-b5d8-b337e03bf9db
+platform: android
+minsdk: 5.0.0.GA

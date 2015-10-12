@@ -1,0 +1,7 @@
+Objective: Focus textfiled(Numeric) with keypad(Numeric) when rendered html5 webpages via titanium webview.
+keypad should render automatically on page load, keypad should render on textfiled focus and 
+keypad should render via js method.
+Keypad type (Numeric/Alpha numeric) should be rendered based on html input field type.
+
+Warnings: 
+[WARN] :   UnimplementedWebViewApi: Unimplemented WebView method onKeyDown called from: android.webkit.WebView.onKeyDown(WebView.java:2178)
